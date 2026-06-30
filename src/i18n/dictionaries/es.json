@@ -1,9 +1,133 @@
 {
   "home": {
-    "title": "El Estándar de Oro en Seguridad Legalmente Defendible",
-    "subtitle": "Más que cumplimiento. Más que tecnología.",
-    "cta": "Solicitar Demo",
-    "consult": "Solicitar Consultoría"
+    "hero": {
+      "title": "El Estándar de Oro en Seguridad Legalmente Defendible que Protege a su Gente y su Negocio.",
+      "cta_demo": "Solicitar Demo",
+      "cta_consult": "Solicitar Consultoría"
+    },
+    "differentiators": {
+      "heading": "Más que cumplimiento. Más que tecnología.",
+      "subheading": "SafetyLink combina experiencia práctica en OSHA con innovación para ofrecer programas de cumplimiento prácticos y legalmente sólidos.",
+      "items": [
+        { "title": "Guiados por Ex-Liderazgo de OSHA", "desc": "El equipo incluye al ex-director de OSHA y socios senior en derecho laboral" },
+        { "title": "Capacitadores Autorizados por OSHA", "desc": "Toda la capacitación es impartida por profesionales autorizados" },
+        { "title": "Bilingüe por Default", "desc": "Inglés y español integrados en toda la plataforma, no como un agregado" },
+        { "title": "Incorporación y Soporte Premium", "desc": "Incorporación experta y soporte continuo sin costo adicional" },
+        { "title": "Legalmente Defendible", "desc": "Plataforma y programas diseñados para resistir el escrutinio legal" },
+        { "title": "Escalable a Cualquier Tamaño", "desc": "Diseñado para PyMEs, pero con potencia para empresas multi-sitio" }
+      ]
+    },
+    "impact": {
+      "heading": "Seguridad que Mueve los Números",
+      "stats": [
+        { "value": "15–35%", "label": "menos lesiones con programas IIPP bien implementados", "icon": "shield" },
+        { "value": "Hasta 6× ROI", "label": "en inversiones de seguridad", "icon": "chart" },
+        { "value": "2,500+", "label": "organizaciones confían en SafetyLink", "icon": "building" }
+      ],
+      "secondary": [
+        { "value": "$170B+", "label": "costo anual de lesiones en EE.UU. — proteja su P&L" },
+        { "value": "98%", "label": "tasa de cumplimiento y monitoreo 24/7" },
+        { "value": "500+", "label": "empresas en industrias de alto riesgo" }
+      ]
+    },
+    "offerings": {
+      "heading": "Dos Formas de Trabajar con Nosotros",
+      "software": {
+        "title": "Software de Seguridad Accesible",
+        "subtitle": "Software simple y listo para gestionar capacitación, auditorías y cumplimiento en un solo lugar — diseñado para pequeñas y medianas empresas.",
+        "features": [
+          "LMS y Capacitación (bilingüe, currículos OSHA)",
+          "Auditorías e Inspecciones Digitales con informes en tiempo real",
+          "Registros OSHA (reporte automatizado de incidentes, legalmente compliant)",
+          "Dashboards en Tiempo Real (analítica predictiva, perspectivas ejecutivas)"
+        ],
+        "cta": "Explorar Software"
+      },
+      "program": {
+        "title": "Gestión de Programas Personalizada",
+        "subtitle": "Programas de cumplimiento OSHA adaptados e implementados por expertos autorizados — ideal para empresas en crecimiento.",
+        "features": [
+          "Creación, implementación y gestión integral de programas",
+          "Desde operaciones locales de un solo sitio hasta empresas multi-sitio nacionales o globales",
+          "También disponible como auditorías únicas, políticas o capacitación individual"
+        ],
+        "cta": "Explorar Gestión de Programas"
+      }
+    },
+    "process": {
+      "heading": "Cómo Funciona SafetyLink",
+      "steps": [
+        { "number": 1, "title": "Evaluar y Auditar", "desc": "Evaluación completa de riesgos en sitio y auditoría de cumplimiento, descubriendo riesgos antes que OSHA." },
+        { "number": 2, "title": "Implementar", "desc": "Programa de seguridad personalizado, adaptado a su negocio, entregado en inglés y español." },
+        { "number": 3, "title": "Monitorear y Refinar", "desc": "Monitoreo continuo mediante dashboards y analítica predictiva." }
+      ]
+    },
+    "industries": {
+      "heading": "Industrias que Servimos",
+      "subheading": "Si tiene trabajadores, necesita seguridad — y estamos aquí para usted.",
+      "list": [
+        "Manufactura",
+        "Construcción",
+        "Salud y Hospitales",
+        "Energía y Servicios / Petróleo, Gas",
+        "Gobierno y Sector Público",
+        "Transporte y Logística"
+      ]
+    },
+    "testimonials": {
+      "heading": "Respaldados por Líderes en Seguridad",
+      "items": [
+        {
+          "quote": "SafetyLink transformó nuestro programa de cumplimiento. La defendibilidad legal nos da la confianza de que estamos realmente protegidos.",
+          "name": "Maria Rodriguez",
+          "role": "Directora de Seguridad, Manufactura",
+          "stars": 5
+        },
+        {
+          "quote": "La plataforma bilingüe de SafetyLink hizo que capacitar a nuestra fuerza laboral diversa fuera impecable.",
+          "name": "Ana Gutierrez",
+          "role": "Coordinadora de Seguridad, Transporte",
+          "stars": 5
+        },
+        {
+          "quote": "SafetyLink simplificó todo nuestro programa de seguridad con resultados medibles.",
+          "name": "David Kim",
+          "role": "Director de Seguridad, Manufactura",
+          "stars": 5
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Qué hace diferente a SafetyLink?",
+          "a": "Combinamos consultoría autorizada por OSHA, software potente y soporte bilingüe integrado. Soluciones integrales, no solo auditorías."
+        },
+        {
+          "q": "¿Necesito comprar software?",
+          "a": "No — ofrecemos modelos flexibles que incluyen consultoría independiente, gestión de programas o software. Puede comenzar con una auditoría única."
+        },
+        {
+          "q": "¿Es adecuado para pequeñas empresas?",
+          "a": "Sí — nos especializamos en PyMEs, ofreciendo experiencia de nivel empresarial a precios accesibles. Escalable de 10 a más de 10,000 trabajadores."
+        },
+        {
+          "q": "¿Qué tan rápido podemos estar en cumplimiento?",
+          "a": "Desde el momento en que nos comprometemos, nos movemos. Soporte inmediato en sitio para resolver problemas de alto riesgo, impartir capacitación e instalar controles."
+        },
+        {
+          "q": "¿La capacitación es bilingüe?",
+          "a": "Integrada en todos los servicios — materiales, señalización y comunicación directa con la fuerza laboral en español e inglés."
+        }
+      ]
+    },
+    "cta_final": {
+      "heading": "¿Listo para Proteger a su Gente y su Negocio?",
+      "subheading": "Experimente la diferencia que la experiencia autorizada por OSHA y el liderazgo comprobado pueden hacer.",
+      "demo": "Solicitar Demo",
+      "consult": "Solicitar Consultoría"
+    }
   },
   "nav": {
     "home": "Inicio",
@@ -15,6 +139,19 @@
     "demo": "Solicitar Demo"
   },
   "footer": {
-    "tagline": "La única plataforma de cumplimiento de seguridad legalmente defendible respaldada por ex-liderazgo de OSHA y expertos en derecho laboral."
+    "tagline": "La única plataforma de cumplimiento de seguridad legalmente defendible respaldada por ex-liderazgo de OSHA y expertos en derecho laboral. Protegiendo fuerzas laborales con capacitación, auditorías y soluciones de cumplimiento bilingües.",
+    "disclaimer": "SafetyLink no está afiliado ni respaldado por OSHA. El apoyo consultivo es proporcionado por ex-liderazgo de OSHA.",
+    "company": "Safety Link, LLC",
+    "address": "111 Congress Ave, Suite 500",
+    "city": "Austin, Texas 78701",
+    "phone1": "888-373-7822",
+    "phone2": "833-780-0728",
+    "email": "compliance@safetylink.ai",
+    "quickLinks": "Enlaces Rápidos",
+    "compliance": "Cumplimiento y Confianza",
+    "copyright": "© 2026 SafetyLink. Todos los derechos reservados. Soluciones de cumplimiento de seguridad legalmente defendibles.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "accessibility": "Accesibilidad"
   }
 }

@@ -1,9 +1,133 @@
 {
   "home": {
-    "title": "The Gold Standard in Legally Defensible Safety",
-    "subtitle": "More than compliance. More than technology.",
-    "cta": "Request a Demo",
-    "consult": "Request a Consultation"
+    "hero": {
+      "title": "The Gold Standard in Legally Defensible Safety that Protects Your People and Your Business.",
+      "cta_demo": "Request a Demo",
+      "cta_consult": "Request a Consultation"
+    },
+    "differentiators": {
+      "heading": "More than compliance. More than technology.",
+      "subheading": "SafetyLink combines hands-on OSHA expertise with innovation to deliver compliance programs that are both practical and legally robust.",
+      "items": [
+        { "title": "Guided by Former OSHA Leadership", "desc": "Team includes former head of OSHA and senior labor law partners" },
+        { "title": "OSHA-Authorized Trainers", "desc": "All training delivered by authorized professionals" },
+        { "title": "Bilingual by Default", "desc": "English & Spanish integrated throughout the platform, not an add-on" },
+        { "title": "White-Glove Onboarding & Support", "desc": "Expert onboarding and ongoing support at no extra cost" },
+        { "title": "Legally Defensible", "desc": "Platform and programs designed to withstand legal scrutiny" },
+        { "title": "Scalable for Any Size", "desc": "Built for SMBs, yet powerful enough for multi-site enterprises" }
+      ]
+    },
+    "impact": {
+      "heading": "Safety That Moves the Numbers",
+      "stats": [
+        { "value": "15–35%", "label": "fewer injuries with well-run IIPP programs", "icon": "shield" },
+        { "value": "Up to 6× ROI", "label": "on safety investments", "icon": "chart" },
+        { "value": "2,500+", "label": "organizations trust SafetyLink", "icon": "building" }
+      ],
+      "secondary": [
+        { "value": "$170B+", "label": "annual U.S. injury costs — protect your P&L" },
+        { "value": "98%", "label": "compliance rate and 24/7 monitoring" },
+        { "value": "500+", "label": "companies in high-risk industries" }
+      ]
+    },
+    "offerings": {
+      "heading": "Two Ways to Work With Us",
+      "software": {
+        "title": "Affordable Safety Software",
+        "subtitle": "Simple, turnkey software to manage training, audits, and compliance in one place — built for small and mid-sized businesses.",
+        "features": [
+          "LMS & Training (bilingual, OSHA-compliant curricula)",
+          "Digital Audits & Inspections with real-time reporting",
+          "OSHA Logs (automated incident reporting, legally compliant)",
+          "Real-Time Dashboards (predictive analytics, executive insights)"
+        ],
+        "cta": "Explore Software"
+      },
+      "program": {
+        "title": "Customized Program Management",
+        "subtitle": "Tailored OSHA-compliant programs designed and implemented by authorized experts — ideal for growing enterprises.",
+        "features": [
+          "End-to-end program creation, deployment, and management",
+          "From single-site local operations to nationwide or global multi-site enterprises",
+          "Also available as one-time audits, policies, or individual training"
+        ],
+        "cta": "Explore Program Management"
+      }
+    },
+    "process": {
+      "heading": "How SafetyLink Works",
+      "steps": [
+        { "number": 1, "title": "Assess & Audit", "desc": "Full on-site hazard assessment & compliance audit, uncovering risks before OSHA does." },
+        { "number": 2, "title": "Implement", "desc": "Custom safety program, tailored to your business, delivered in English & Spanish." },
+        { "number": 3, "title": "Track & Refine", "desc": "Continuous monitoring via dashboards and predictive analytics." }
+      ]
+    },
+    "industries": {
+      "heading": "Industries We Serve",
+      "subheading": "If you have workers, you need safety — and we're here for you.",
+      "list": [
+        "Manufacturing",
+        "Construction",
+        "Healthcare & Hospitals",
+        "Energy & Utilities / Oil, Gas",
+        "Government & Public Sector",
+        "Transportation & Logistics"
+      ]
+    },
+    "testimonials": {
+      "heading": "Trusted by Safety Leaders",
+      "items": [
+        {
+          "quote": "SafetyLink transformed our compliance program. The legal defensibility gives us confidence that we're truly protected.",
+          "name": "Maria Rodriguez",
+          "role": "Safety Director, Manufacturing",
+          "stars": 5
+        },
+        {
+          "quote": "SafetyLink's bilingual platform made training our diverse workforce seamless.",
+          "name": "Ana Gutierrez",
+          "role": "Safety Coordinator, Transportation",
+          "stars": 5
+        },
+        {
+          "quote": "SafetyLink streamlined our entire safety program with measurable results.",
+          "name": "David Kim",
+          "role": "Safety Director, Manufacturing",
+          "stars": 5
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What makes SafetyLink different?",
+          "a": "We combine OSHA-authorized consulting, powerful software, and built-in bilingual support. End-to-end solutions, not just audits."
+        },
+        {
+          "q": "Do I need to purchase software?",
+          "a": "No — flexible models include standalone consulting, program management, or software. You can start with a one-time audit."
+        },
+        {
+          "q": "Is it suitable for small businesses?",
+          "a": "Yes — we specialize in SMBs, offering enterprise-level expertise at affordable prices. Scalable from 10 to 10,000+ workers."
+        },
+        {
+          "q": "How quickly can we become compliant?",
+          "a": "From the moment we engage, we move. Immediate boots-on-the-ground support to fix high-risk issues, deliver training, and install controls."
+        },
+        {
+          "q": "Is training bilingual?",
+          "a": "Built into all services — Spanish/English materials, signage, and direct workforce communication."
+        }
+      ]
+    },
+    "cta_final": {
+      "heading": "Ready to Protect Your People and Your Business?",
+      "subheading": "Experience the difference that OSHA-authorized expertise and proven leadership can make.",
+      "demo": "Request a Demo",
+      "consult": "Request a Consultation"
+    }
   },
   "nav": {
     "home": "Home",
@@ -15,6 +139,19 @@
     "demo": "Request Demo"
   },
   "footer": {
-    "tagline": "The only legally defensible safety compliance platform backed by OSHA leadership and top labor law experts."
+    "tagline": "The only legally defensible safety compliance platform backed by OSHA leadership and top labor law experts. Protecting workforces with bilingual training, audits, and compliance solutions.",
+    "disclaimer": "SafetyLink is not affiliated with or endorsed by OSHA. Advisory support provided by former OSHA leadership.",
+    "company": "Safety Link, LLC",
+    "address": "111 Congress Ave, Suite 500",
+    "city": "Austin, Texas 78701",
+    "phone1": "888-373-7822",
+    "phone2": "833-780-0728",
+    "email": "compliance@safetylink.ai",
+    "quickLinks": "Quick Links",
+    "compliance": "Compliance & Trust",
+    "copyright": "© 2026 SafetyLink. All rights reserved. Legally defensible safety compliance solutions.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "accessibility": "Accessibility"
   }
 }

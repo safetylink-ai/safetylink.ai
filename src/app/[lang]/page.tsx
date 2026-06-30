@@ -1,5 +1,16 @@
 import { notFound } from "next/navigation";
-import { getDictionary, hasLocale } from "@/i18n/dictionaries";
+import { getDictionary, hasLocale, type Locale } from "@/i18n/dictionaries";
+import Header from "@/components/layout/Header";
+import Footer from "@/components/layout/Footer";
+import Hero from "@/components/home/Hero";
+import Differentiators from "@/components/home/Differentiators";
+import ImpactStats from "@/components/home/ImpactStats";
+import Offerings from "@/components/home/Offerings";
+import Process from "@/components/home/Process";
+import Industries from "@/components/home/Industries";
+import Testimonials from "@/components/home/Testimonials";
+import FAQ from "@/components/home/FAQ";
+import CTASection from "@/components/home/CTASection";
 
 export default async function HomePage({
   params,
@@ -8,39 +19,23 @@ export default async function HomePage({
 }) {
   const { lang } = await params;
   if (!hasLocale(lang)) notFound();
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang as Locale);
 
   return (
-    <main className="flex-1">
-      {/* Hero Section */}
-      <section className="bg-navy text-white py-24 px-6">
-        <div className="max-w-6xl mx-auto text-center">
-          <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
-            {dict.home.title}
-          </h1>
-          <p className="text-xl md:text-2xl font-medium mb-10 text-gray-300">
-            {dict.home.subtitle}
-          </p>
-          <div className="flex gap-4 justify-center flex-wrap">
-            <a
-              href="/contact"
-              className="bg-primary text-white px-10 py-4 rounded-full font-semibold text-sm hover:bg-[#009c2f] transition-colors"
-            >
-              {dict.home.cta}
-            </a>
-            <a
-              href="/contact"
-              className="bg-transparent text-white border-2 border-white px-10 py-4 rounded-[10px] font-semibold text-sm hover:bg-white hover:text-navy transition-colors"
-            >
-              {dict.home.consult}
-            </a>
-          </div>
-        </div>
-      </section>
-
-      <section className="py-16 px-6 text-center text-gray-500">
-        <p>Site migration in progress. Full content coming in Phase 2.</p>
-      </section>
-    </main>
+    <>
+      <Header lang={lang as Locale} dict={dict.nav} />
+      <main className="flex-1">
+        <Hero {...dict.home.hero} />
+        <Differentiators {...dict.home.differentiators} />
+        <ImpactStats {...dict.home.impact} />
+        <Offerings {...dict.home.offerings} />
+        <Process {...dict.home.process} />
+        <Industries {...dict.home.industries} />
+        <Testimonials {...dict.home.testimonials} />
+        <FAQ {...dict.home.faq} />
+        <CTASection {...dict.home.cta_final} />
+      </main>
+      <Footer dict={dict.footer} nav={dict.nav} lang={lang} />
+    </>
   );
 }
