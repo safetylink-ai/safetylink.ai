@@ -541,5 +541,364 @@
       "subtitle": "Hable con un Asesor Autorizado por OSHA",
       "button": "Solicitar Demo"
     }
+  },
+  "program_mgmt": {
+    "hero": {
+      "title": "Gestión de Programas Safety Link",
+      "subtitle": "Expertos dedicados. Programas específicos por sitio. Seguridad legalmente defendible.",
+      "badges": [
+        "Guiados por Ex-Liderazgo de OSHA",
+        "Impartido por Capacitadores Autorizados por OSHA",
+        "Bilingüe (EN/ES) por Defecto"
+      ],
+      "cta1": "Solicitar Consultoría",
+      "cta2": "Hablar con un Asesor Autorizado por OSHA",
+      "img": "/images/imgi_4_program-management-hero-D-Eb6hSv.jpg"
+    },
+    "features": {
+      "items": [
+        {
+          "icon": "🌐",
+          "title": "Bilingüe por defecto",
+          "desc": "Materiales de capacitación y programas en inglés y español."
+        },
+        {
+          "icon": "📋",
+          "title": "Impartido por autorizados OSHA",
+          "desc": "Expertos que construyen, capacitan y respaldan su programa."
+        },
+        {
+          "icon": "🏗️",
+          "title": "Programas específicos por sitio",
+          "desc": "Escritos para sus riesgos y lugares de trabajo—sin plantillas genéricas."
+        },
+        {
+          "icon": "⚖️",
+          "title": "Legalmente defendible",
+          "desc": "Asesorado por ex-liderazgo de OSHA y abogados laborales."
+        },
+        {
+          "icon": "🔍",
+          "title": "Auditorías en sitio",
+          "desc": "Encontramos lo que OSHA encontraría—y lo resolvemos juntos."
+        },
+        {
+          "icon": "📈",
+          "title": "Para PyMEs, escalable",
+          "desc": "Experiencia de alto nivel que escala a empresas de alto riesgo."
+        }
+      ]
+    },
+    "gold_standard": {
+      "heading": "Qué Nos Hace el Estándar de Oro",
+      "items": [
+        {
+          "title": "Capacitación Obligatoria OSHA (EN/ES)",
+          "desc": "Impartida por capacitadores autorizados por OSHA, programada y registrada para cubrir a toda su fuerza laboral."
+        },
+        {
+          "title": "Programas Personalizados por Sitio",
+          "desc": "Políticas escritas para sus riesgos con control de versiones y acuses de recibo."
+        },
+        {
+          "title": "Evaluaciones de Riesgos en Sitio y Auditorías",
+          "desc": "Identificamos violaciones y entregamos un plan de acción correctiva priorizado."
+        },
+        {
+          "title": "Defensa de Citaciones y Soporte OSHA",
+          "desc": "Si OSHA aparece, nosotros aparecemos—orientación, representación y CAPA para minimizar citaciones."
+        },
+        {
+          "title": "Investigación y Prevención de Incidentes",
+          "desc": "Análisis de causa raíz, documentación y estrategias de prevención para evitar repeticiones."
+        }
+      ]
+    },
+    "addons": {
+      "heading": "Complementos que Importan",
+      "items": [
+        "Revisiones regulatorias",
+        "Desarrollo cultural",
+        "JHAs/JSAs",
+        "Planes de emergencia",
+        "EPP",
+        "Seguridad de contratistas",
+        "Registros OSHA",
+        "Consultoría de riesgos/seguros"
+      ]
+    },
+    "implementation": {
+      "heading": "Nuestra Implementación",
+      "subheading": "Rápida, práctica, con rendición de cuentas",
+      "steps": [
+        {
+          "title": "Inicio y Descubrimiento",
+          "desc": "Mapeamos operaciones, riesgos y objetivos para que su plan sea realmente suyo."
+        },
+        {
+          "title": "Desarrollo del Programa",
+          "desc": "Construimos políticas específicas alineadas con OSHA y su trabajo real."
+        },
+        {
+          "title": "Coordinación e Impartición de Capacitación",
+          "desc": "Cursos requeridos por OSHA impartidos en sitio o remotamente (EN/ES)."
+        },
+        {
+          "title": "Revisiones 30/60/90 Días",
+          "desc": "Seguimientos estructurados para asegurar adopción y mejora continua."
+        },
+        {
+          "title": "Éxito Continuo",
+          "desc": "CSM dedicado + su AE para continuidad y un plan claro."
+        },
+        {
+          "title": "Opcional: Captura de Evidencia",
+          "desc": "Si agrega el software SafetyLink, obtenga firmas electrónicas, registros de auditoría y registros OSHA."
+        }
+      ]
+    },
+    "launch_offer": {
+      "heading": "Oferta de Lanzamiento para Nuevos Clientes",
+      "items": [
+        "Evaluación de riesgos en sitio y auditoría de cumplimiento",
+        "Programa bilingüe personalizado requerido por OSHA",
+        "Primera ronda de capacitación OSHA (EN/ES)",
+        "Consulta de 60 minutos con un Consultor de Seguridad Autorizado por OSHA",
+        "Revisión de reclamos de compensación laboral y recomendaciones",
+        "Todo incluido al iniciar Gestión de Programas"
+      ]
+    },
+    "faq": {
+      "heading": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Necesito comprar software para trabajar con Safety Link?",
+          "a": "No. La Gestión de Programas funciona por sí sola. Puede agregar software después para captura de evidencia e informes."
+        },
+        {
+          "q": "¿Estarán presentes si OSHA visita?",
+          "a": "Sí. Apoyamos inspecciones y citaciones con orientación experta y planes de acción correctiva."
+        },
+        {
+          "q": "¿Todo es bilingüe?",
+          "a": "Sí—inglés y español son estándar en toda la capacitación y programas."
+        },
+        {
+          "q": "¿Qué tan rápido podemos estar en cumplimiento?",
+          "a": "Después del descubrimiento, implementamos políticas e impartimos capacitación de inmediato, luego impulsamos la adopción con revisiones de 30/60/90 días."
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Su cumplimiento merece más que software genérico.",
+      "subtitle": "Obtenga un programa de seguridad bilingüe, específico por sitio y legalmente defendible—construido y gestionado por expertos Autorizados por OSHA.",
+      "consult": "Solicitar Consultoría",
+      "advisor": "Hablar con un Asesor"
+    }
+  },
+  "solutions": {
+    "hero": {
+      "title": "Soluciones de Seguridad para Cada Lugar de Trabajo",
+      "subtitle": "Desde software hasta programas completamente gestionados — encuentre la opción adecuada para su organización."
+    },
+    "cards": [
+      {
+        "title": "Software de Seguridad",
+        "desc": "Plataforma integrada de cumplimiento. Gestione capacitación, auditorías, inspecciones, incidentes, CAPA, registros OSHA y analítica en un solo lugar. Diseñado para PyMEs que buscan control sin hojas de cálculo.",
+        "img": "/images/dashboard-mockup-DghHsdGf.jpg",
+        "cta": "Explorar Software",
+        "href": "/safety-software"
+      },
+      {
+        "title": "Gestión de Programas",
+        "desc": "Programas de cumplimiento OSHA personalizados, diseñados, implementados y gestionados por expertos autorizados. Ideal para operaciones de alto riesgo o multi-sitio que necesitan experiencia práctica.",
+        "img": "/images/program-team-BDtLA316.jpg",
+        "cta": "Explorar Gestión de Programas",
+        "href": "/safety-program-management"
+      }
+    ]
+  },
+  "services": {
+    "hero": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Soluciones integrales de seguridad y cumplimiento adaptadas a su negocio."
+    },
+    "items": [
+      {
+        "title": "Auditorías e Inspecciones de Seguridad",
+        "desc": "Evaluaciones de riesgos en sitio y auditorías de cumplimiento para identificar riesgos antes que OSHA.",
+        "icon": "🔍"
+      },
+      {
+        "title": "Capacitación OSHA (EN/ES)",
+        "desc": "Capacitación bilingüe impartida por capacitadores autorizados por OSHA — en sitio o remota.",
+        "icon": "📚"
+      },
+      {
+        "title": "Desarrollo de Políticas y Programas",
+        "desc": "Políticas de seguridad específicas por sitio, JHAs, JSAs y planes de emergencia.",
+        "icon": "📋"
+      },
+      {
+        "title": "Defensa de Citaciones y Soporte",
+        "desc": "Si OSHA aparece, nosotros aparecemos — orientación, representación y planes de acción correctiva.",
+        "icon": "⚖️"
+      },
+      {
+        "title": "Investigación de Incidentes",
+        "desc": "Análisis de causa raíz, documentación y estrategias de prevención.",
+        "icon": "🔎"
+      },
+      {
+        "title": "Consultoría de Riesgos y Seguros",
+        "desc": "Revisión de reclamos de compensación laboral, evaluaciones de riesgos y recomendaciones.",
+        "icon": "🛡️"
+      }
+    ],
+    "cta": {
+      "heading": "¿No está seguro de lo que necesita?",
+      "subtitle": "Hable con un Asesor Autorizado por OSHA — lo ayudaremos a encontrar la solución adecuada.",
+      "button": "Solicitar Consultoría"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Vea SafetyLink en Acción",
+      "subtitle": "Experimente de primera mano cómo SafetyLink transforma la seguridad laboral con nuestra demo personalizada."
+    },
+    "what_you_get": {
+      "heading": "Lo que obtendrá:",
+      "items": [
+        "Recorrido personalizado de la plataforma SafetyLink",
+        "Preguntas y respuestas en vivo con expertos autorizados por OSHA",
+        "Funcionalidades reales de la plataforma, no diapositivas genéricas",
+        "Soporte bilingüe (inglés y español)"
+      ]
+    },
+    "spanish_note": {
+      "text": "¿Prefiere español?",
+      "subtext": "Podemos coordinar su consulta en español. Complete el formulario en la versión en español del sitio.",
+      "link": "Ir al sitio en Español"
+    },
+    "form_note": "Este es un sitio de marketing estático. Para solicitar una demo o consultoría, por favor envíenos un correo directamente.",
+    "contact_info": {
+      "heading": "Otras Formas de Contactarnos",
+      "phone1": "888-373-7822",
+      "phone2": "833-780-0728",
+      "hours": "Lunes – Viernes, 8AM – 6PM EST",
+      "email": "compliance@safetylink.ai",
+      "response": "Respondemos dentro de 24 horas",
+      "office": "Austin, TX 78701",
+      "address": "111 Congress Ave, Suite 500"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Política de Privacidad",
+      "updated": "Última Actualización: 22 de Abril de 2025",
+      "body": "Safety Link, LLC proporciona una plataforma de capacitación en seguridad B2B. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos la información cuando las organizaciones y sus empleados usan nuestra plataforma.\n\n**Información Recopilada:** Nombre comercial, dirección, datos de contacto, información del representante autorizado, datos de facturación/pago, credenciales de acceso, nombres de empleados, números de teléfono móvil (para SMS) y registros de finalización de capacitación. También recopilamos automáticamente identificadores de dispositivo, tipo de navegador, SO, dirección IP, datos de uso de la plataforma y cookies.\n\n**Cómo Usamos la Información:** Para proporcionar y mejorar la plataforma, permitir la entrega de SMS a través de Twilio en nombre de los Clientes, soporte al cliente, facturación, cumplimiento legal y seguridad.\n\n**Mensajes SMS:** Safety Link no inicia mensajes SMS de forma independiente. Todas las comunicaciones SMS son iniciadas por el Cliente en nombre de su fuerza laboral. Responda STOP para darse de baja. No vendemos, alquilamos ni compartimos números de teléfono móvil con terceros para marketing.\n\n**Seguridad de Datos:** Cifrado TLS/SSL, controles de acceso, revisiones regulares de seguridad. Utilizamos proveedores con certificaciones ISO/IEC 27001 y SOC 2 Type II.\n\n**Contacto:** compliance@safetylink.ai | 888-373-7822 | 111 Congress Ave, Suite 500, Austin, TX 78701"
+    },
+    "terms": {
+      "title": "Términos de Servicio",
+      "updated": "Última Actualización: 22 de Abril de 2025",
+      "body": "Safety Link, LLC proporciona una plataforma de capacitación en seguridad B2B que permite a los empleadores enviar capacitación de seguridad laboral y notificaciones de cumplimiento a los empleados por SMS.\n\n**Darse de Baja:** Responda STOP a cualquier mensaje SMS para cancelar la suscripción. Responda HELP para asistencia.\n\n**Responsabilidad del Operador:** Los operadores inalámbricos no son responsables por mensajes retrasados o no entregados. Pueden aplicarse tarifas de mensajes y datos.\n\n**Responsabilidad del Cliente:** Los clientes son responsables de obtener el consentimiento adecuado de los empleados antes de enviar mensajes SMS, cumplir con las leyes aplicables incluyendo TCPA, mantener información de contacto precisa de los empleados y atender las solicitudes de baja oportunamente.\n\n**Privacidad:** Safety Link no vende, alquila ni comparte números de teléfono móvil o datos de suscripción SMS con terceros para fines de marketing o promoción.\n\n**Cambios:** Safety Link puede actualizar estos Términos. La participación continua constituye la aceptación de los cambios.\n\n**Contacto:** compliance@safetylink.ai | 888-373-7822 | 111 Congress Ave, Suite 500, Austin, TX 78701"
+    },
+    "accessibility": {
+      "title": "Declaración de Accesibilidad",
+      "updated": "Última Actualización: 22 de Abril de 2025",
+      "body": "Safety Link, LLC se compromete a garantizar que nuestro sitio web y plataforma de capacitación en seguridad sean accesibles para todos los usuarios, incluidas las personas con discapacidades.\n\n**Estándares:** Buscamos cumplir con las Pautas de Accesibilidad al Contenido Web (WCAG) 2.1, Nivel AA.\n\n**Medidas que Tomamos:** Diseñar interfaces con la accesibilidad en mente, soportar navegación por teclado, proporcionar alternativas de texto para contenido no textual, garantizar suficiente contraste de color y legibilidad, estructurar contenido para compatibilidad con lectores de pantalla y realizar pruebas periódicas.\n\n**Mejoras Continuas:** Evaluamos y mejoramos continuamente nuestra plataforma para mejorar la usabilidad y accesibilidad.\n\n**Comentarios:** Si experimenta alguna dificultad, contáctenos en compliance@safetylink.ai o al 888-373-7822. Incluya una descripción del problema y la página o función que intenta acceder.\n\n**Contacto:** compliance@safetylink.ai | 888-373-7822 | 111 Congress Ave, Suite 500, Austin, TX 78701"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "posts": [
+      {
+        "slug": "from-chaos-to-control",
+        "title": "Del Caos al Control: Implementando Programas EN/ES en 11 Sitios",
+        "date": "2025-11-10",
+        "category": "case-study",
+        "tags": [
+          "en-es",
+          "construction",
+          "compliance"
+        ],
+        "excerpt": "Cómo un contratista multi-sitio implementó programas de seguridad bilingües en 11 ubicaciones con SafetyLink."
+      },
+      {
+        "slug": "5-policy-mistakes",
+        "title": "5 Errores de Políticas que Fracasan en Auditorías — y Qué Hacer en su Lugar",
+        "date": "2025-11-10",
+        "category": "guide",
+        "tags": [
+          "policies",
+          "audit-ready",
+          "compliance"
+        ],
+        "excerpt": "Evite errores comunes de políticas que provocan hallazgos de auditoría y aprenda a construir documentación defendible."
+      },
+      {
+        "slug": "bilingual-training-that-works",
+        "title": "Capacitación Bilingüe que Funciona: Programación, Seguimiento, Refuerzo",
+        "date": "2025-11-10",
+        "category": "blog",
+        "tags": [
+          "training",
+          "en-es"
+        ],
+        "excerpt": "Estrategias prácticas para impartir capacitación de seguridad bilingüe efectiva en fuerzas laborales diversas."
+      },
+      {
+        "slug": "reducing-recordable-injuries",
+        "title": "Reduciendo Lesiones Registrables: Un Enfoque Específico por Sitio para Contratistas",
+        "date": "2025-11-10",
+        "category": "blog",
+        "tags": [
+          "injury-prevention",
+          "construction"
+        ],
+        "excerpt": "Enfoques de seguridad específicos por sitio que reducen mediblemente las lesiones registrables en construcción."
+      },
+      {
+        "slug": "lockout-tagout-implementation",
+        "title": "Guía de Implementación de Bloqueo/Etiquetado: De la Política a la Práctica",
+        "date": "2025-11-10",
+        "category": "guide",
+        "tags": [
+          "loto",
+          "training"
+        ],
+        "excerpt": "Una guía paso a paso para implementar programas LOTO efectivos que pasan auditorías y protegen a los trabajadores."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Caso de Estudio",
+        "slug": "case-study"
+      },
+      {
+        "name": "Blog",
+        "slug": "blog"
+      },
+      {
+        "name": "Webinar",
+        "slug": "webinar"
+      },
+      {
+        "name": "Guía",
+        "slug": "guide"
+      }
+    ],
+    "tags": [
+      "training",
+      "capa",
+      "dashboards",
+      "policies",
+      "audit-ready",
+      "en-es",
+      "construction",
+      "injury-prevention",
+      "loto",
+      "compliance"
+    ]
   }
 }

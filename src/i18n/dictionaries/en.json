@@ -541,5 +541,364 @@
       "subtitle": "Talk to an OSHA Authorized Advisor",
       "button": "Request a Demo"
     }
+  },
+  "program_mgmt": {
+    "hero": {
+      "title": "Safety Link Program Management",
+      "subtitle": "Hands-on experts. Site-specific programs. Legally defensible safety.",
+      "badges": [
+        "Guided by Former OSHA Leadership",
+        "Delivered by OSHA-Authorized Trainers",
+        "Bilingual (EN/ES) by Default"
+      ],
+      "cta1": "Request a Consultation",
+      "cta2": "Talk to an OSHA Authorized Advisor",
+      "img": "/images/imgi_4_program-management-hero-D-Eb6hSv.jpg"
+    },
+    "features": {
+      "items": [
+        {
+          "icon": "🌐",
+          "title": "Bilingual by default",
+          "desc": "Training & program materials in English and Spanish."
+        },
+        {
+          "icon": "📋",
+          "title": "OSHA-Authorized delivery",
+          "desc": "Experts who build, train, and stand by your program."
+        },
+        {
+          "icon": "🏗️",
+          "title": "Site-specific programs",
+          "desc": "Written to your hazards & jobsites—no generic templates."
+        },
+        {
+          "icon": "⚖️",
+          "title": "Legally defensible",
+          "desc": "Advised by former OSHA leadership & OSHA attorneys."
+        },
+        {
+          "icon": "🔍",
+          "title": "On-site audits",
+          "desc": "We find what OSHA would find—and fix it together."
+        },
+        {
+          "icon": "📈",
+          "title": "Built for SMBs, scalable",
+          "desc": "High-touch expertise that scales to high-risk enterprise."
+        }
+      ]
+    },
+    "gold_standard": {
+      "heading": "What Makes Us the Gold Standard",
+      "items": [
+        {
+          "title": "OSHA-Mandated Training (EN/ES)",
+          "desc": "Delivered by OSHA Authorized trainers, scheduled and tracked so your whole workforce is covered."
+        },
+        {
+          "title": "Custom, Site-Specific Programs",
+          "desc": "Policies written to your hazards & jobsites with version control and acknowledgements."
+        },
+        {
+          "title": "On-Site Hazard Assessments & Compliance Audits",
+          "desc": "We identify violations and deliver a prioritized corrective action plan."
+        },
+        {
+          "title": "Citation Defense & OSHA Support",
+          "desc": "If OSHA shows up, we show up—guidance, representation & CAPA to minimize citations."
+        },
+        {
+          "title": "Incident Investigation & Prevention",
+          "desc": "Root-cause analysis, documentation, and prevention strategies to stop repeats."
+        }
+      ]
+    },
+    "addons": {
+      "heading": "Program Add-Ons That Matter",
+      "items": [
+        "Regulatory reviews",
+        "Culture development",
+        "JHAs/JSAs",
+        "Emergency plans",
+        "PPE",
+        "Contractor safety",
+        "OSHA logs",
+        "Risk/insurance consulting"
+      ]
+    },
+    "implementation": {
+      "heading": "Our Implementation",
+      "subheading": "Fast, hands-on, accountable",
+      "steps": [
+        {
+          "title": "Kickoff & Discovery",
+          "desc": "We map operations, hazards, and goals so your plan is actually yours."
+        },
+        {
+          "title": "Program Development",
+          "desc": "We build site-specific policies aligned to OSHA and your real-world work."
+        },
+        {
+          "title": "Training Coordination & Delivery",
+          "desc": "OSHA-required courses delivered on-site or remotely (EN/ES)."
+        },
+        {
+          "title": "30/60/90-Day Check-ins",
+          "desc": "Structured follow-ups to ensure adoption and continuous improvement."
+        },
+        {
+          "title": "Ongoing Success",
+          "desc": "Dedicated CSM + your AE for continuity and a clear plan."
+        },
+        {
+          "title": "Optional: Evidence Capture",
+          "desc": "If you add SafetyLink software, get e-signatures, audit logs & OSHA logs in one place."
+        }
+      ]
+    },
+    "launch_offer": {
+      "heading": "New-Customer Launch Offer",
+      "items": [
+        "On-site hazard assessment & compliance audit",
+        "Custom bilingual OSHA-mandated program",
+        "First round of OSHA training (EN/ES)",
+        "60-minute consult with an OSHA-Authorized Safety Consultant",
+        "Workers' comp claims review & recommendations",
+        "All included when you start Program Management"
+      ]
+    },
+    "faq": {
+      "heading": "FAQs",
+      "items": [
+        {
+          "q": "Do I need to buy software to work with Safety Link?",
+          "a": "No. Program Management stands on its own. You can add software later for evidence capture and reporting."
+        },
+        {
+          "q": "Will you be there if OSHA visits?",
+          "a": "Yes. We support inspections and citations with expert guidance and corrective action plans."
+        },
+        {
+          "q": "Is everything bilingual?",
+          "a": "Yes—English and Spanish are standard across training and programs."
+        },
+        {
+          "q": "How fast can we be compliant?",
+          "a": "After discovery, we implement policies and deliver required training immediately, then drive adoption with 30/60/90-day check-ins."
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Your compliance deserves more than generic software.",
+      "subtitle": "Get a bilingual, site-specific, legally defensible safety program—built and run by OSHA Authorized experts.",
+      "consult": "Request a Consultation",
+      "advisor": "Talk to an Advisor"
+    }
+  },
+  "solutions": {
+    "hero": {
+      "title": "Safety Solutions for Every Workplace",
+      "subtitle": "From software to fully managed programs — find the right fit for your organization."
+    },
+    "cards": [
+      {
+        "title": "Safety Software",
+        "desc": "Integrated compliance platform. Run training, audits, inspections, incidents, CAPA, OSHA logs, and analytics in one place. Designed for SMBs seeking control without spreadsheets.",
+        "img": "/images/dashboard-mockup-DghHsdGf.jpg",
+        "cta": "Explore Software",
+        "href": "/safety-software"
+      },
+      {
+        "title": "Program Management",
+        "desc": "Custom OSHA-compliant programs designed, implemented, and managed by authorized experts. Ideal for high-risk or multi-site operations that need hands-on expertise.",
+        "img": "/images/program-team-BDtLA316.jpg",
+        "cta": "Explore Program Management",
+        "href": "/safety-program-management"
+      }
+    ]
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive safety and compliance solutions tailored to your business."
+    },
+    "items": [
+      {
+        "title": "Safety Audits & Inspections",
+        "desc": "On-site hazard assessments and compliance audits to identify risks before OSHA does.",
+        "icon": "🔍"
+      },
+      {
+        "title": "OSHA Training (EN/ES)",
+        "desc": "Bilingual training delivered by OSHA-authorized trainers — on-site or remote.",
+        "icon": "📚"
+      },
+      {
+        "title": "Policy & Program Development",
+        "desc": "Site-specific safety policies, JHAs, JSAs, and emergency plans.",
+        "icon": "📋"
+      },
+      {
+        "title": "Citation Defense & Support",
+        "desc": "If OSHA shows up, we show up — guidance, representation, and corrective action plans.",
+        "icon": "⚖️"
+      },
+      {
+        "title": "Incident Investigation",
+        "desc": "Root-cause analysis, documentation, and prevention strategies.",
+        "icon": "🔎"
+      },
+      {
+        "title": "Risk & Insurance Consulting",
+        "desc": "Workers' comp claims review, risk assessments, and recommendations.",
+        "icon": "🛡️"
+      }
+    ],
+    "cta": {
+      "heading": "Not sure what you need?",
+      "subtitle": "Talk to an OSHA Authorized Advisor — we'll help you find the right solution.",
+      "button": "Request a Consultation"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "See SafetyLink in Action",
+      "subtitle": "Experience firsthand how SafetyLink transforms workplace safety with our personalized demo."
+    },
+    "what_you_get": {
+      "heading": "What You'll Get:",
+      "items": [
+        "Tailored walk-through of SafetyLink platform",
+        "Live Q&A with OSHA-authorized experts",
+        "Real platform features, not generic slides",
+        "Bilingual (English & Spanish) support"
+      ]
+    },
+    "spanish_note": {
+      "text": "Prefer Spanish? / ¿Prefiere español?",
+      "subtext": "We can coordinate your consultation in Spanish. Visit the Spanish version of the site and complete the form there.",
+      "link": "Go to Spanish site"
+    },
+    "form_note": "This is a static marketing site. To request a demo or consultation, please email us directly.",
+    "contact_info": {
+      "heading": "Other Ways to Reach Us",
+      "phone1": "888-373-7822",
+      "phone2": "833-780-0728",
+      "hours": "Monday – Friday, 8AM – 6PM EST",
+      "email": "compliance@safetylink.ai",
+      "response": "We'll respond within 24 hours",
+      "office": "Austin, TX 78701",
+      "address": "111 Congress Ave, Suite 500"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "updated": "Last Updated: April 22, 2025",
+      "body": "Safety Link, LLC provides a business-to-business safety training platform. This Privacy Policy explains how we collect, use, and protect information when organizations and their employees use our platform.\n\n**Information Collected:** Business name, address, contact details, authorized representative info, billing/payment information, login credentials, employee names, mobile phone numbers (for SMS), and training completion records. We also automatically collect device identifiers, browser type, OS, IP address, platform usage data, and cookies.\n\n**How We Use Information:** To provide and improve the platform, enable SMS delivery via Twilio on behalf of Clients, customer support, billing, legal compliance, and security.\n\n**SMS / Text Messaging:** Safety Link does not independently initiate SMS messages. All SMS communications are initiated by the Client on behalf of their workforce. Reply STOP to opt out. We do not sell, rent, or share mobile phone numbers with third parties for marketing.\n\n**Data Security:** TLS/SSL encryption, access controls, regular security reviews. We use providers with ISO/IEC 27001 and SOC 2 Type II certifications.\n\n**Contact:** compliance@safetylink.ai | 888-373-7822 | 111 Congress Ave, Suite 500, Austin, TX 78701"
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "updated": "Last Updated: April 22, 2025",
+      "body": "Safety Link, LLC provides a business-to-business safety training platform enabling employers to deliver workplace safety training and compliance notifications to employees via SMS.\n\n**Opt-Out:** Reply STOP to any SMS message to unsubscribe. Reply HELP for assistance.\n\n**Carrier Liability:** Wireless carriers are not liable for delayed or undelivered messages. Message and data rates may apply.\n\n**Client Responsibility:** Clients are responsible for obtaining proper consent from employees before sending SMS messages, complying with applicable laws including TCPA, maintaining accurate employee contact information, and honoring opt-out requests promptly.\n\n**Privacy:** Safety Link does not sell, rent, or share mobile phone numbers or SMS opt-in data with third parties for marketing or promotional purposes.\n\n**Changes:** Safety Link may update these Terms. Continued participation constitutes acceptance of changes.\n\n**Contact:** compliance@safetylink.ai | 888-373-7822 | 111 Congress Ave, Suite 500, Austin, TX 78701"
+    },
+    "accessibility": {
+      "title": "Accessibility Statement",
+      "updated": "Last Updated: April 22, 2025",
+      "body": "Safety Link, LLC is committed to ensuring our website and safety training platform are accessible to all users, including individuals with disabilities.\n\n**Standards:** We aim to conform to Web Content Accessibility Guidelines (WCAG) 2.1, Level AA.\n\n**Measures We Take:** Designing platform interfaces with accessibility in mind, supporting keyboard navigation, providing text alternatives for non-text content, ensuring sufficient color contrast and readability, structuring content for screen reader compatibility, and conducting periodic testing.\n\n**Ongoing Improvements:** We continuously evaluate and improve our platform to enhance usability and accessibility.\n\n**Feedback:** If you experience any difficulty, contact us at compliance@safetylink.ai or 888-373-7822. Please include a description of the issue and the page or feature you are trying to access.\n\n**Contact:** compliance@safetylink.ai | 888-373-7822 | 111 Congress Ave, Suite 500, Austin, TX 78701"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "posts": [
+      {
+        "slug": "from-chaos-to-control",
+        "title": "From Chaos to Control: Launching EN/ES Programs Across 11 Sites",
+        "date": "2025-11-10",
+        "category": "case-study",
+        "tags": [
+          "en-es",
+          "construction",
+          "compliance"
+        ],
+        "excerpt": "How a multi-site contractor deployed bilingual safety programs across 11 locations with SafetyLink."
+      },
+      {
+        "slug": "5-policy-mistakes",
+        "title": "5 Policy Mistakes That Fail in Audits — and What to Do Instead",
+        "date": "2025-11-10",
+        "category": "guide",
+        "tags": [
+          "policies",
+          "audit-ready",
+          "compliance"
+        ],
+        "excerpt": "Avoid common policy errors that trigger audit findings and learn how to build defensible documentation."
+      },
+      {
+        "slug": "bilingual-training-that-works",
+        "title": "Bilingual Training That Works: Scheduling, Tracking, Reinforcement",
+        "date": "2025-11-10",
+        "category": "blog",
+        "tags": [
+          "training",
+          "en-es"
+        ],
+        "excerpt": "Practical strategies for delivering effective bilingual safety training across diverse workforces."
+      },
+      {
+        "slug": "reducing-recordable-injuries",
+        "title": "Reducing Recordable Injuries: A Site-Specific Approach for Contractors",
+        "date": "2025-11-10",
+        "category": "blog",
+        "tags": [
+          "injury-prevention",
+          "construction"
+        ],
+        "excerpt": "Site-specific safety approaches that measurably reduce recordable injuries in construction."
+      },
+      {
+        "slug": "lockout-tagout-implementation",
+        "title": "Lockout/Tagout Implementation Guide: From Policy to Practice",
+        "date": "2025-11-10",
+        "category": "guide",
+        "tags": [
+          "loto",
+          "training"
+        ],
+        "excerpt": "A step-by-step guide to implementing effective LOTO programs that pass audits and protect workers."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Case Study",
+        "slug": "case-study"
+      },
+      {
+        "name": "Blog",
+        "slug": "blog"
+      },
+      {
+        "name": "Webinar",
+        "slug": "webinar"
+      },
+      {
+        "name": "Guide",
+        "slug": "guide"
+      }
+    ],
+    "tags": [
+      "training",
+      "capa",
+      "dashboards",
+      "policies",
+      "audit-ready",
+      "en-es",
+      "construction",
+      "injury-prevention",
+      "loto",
+      "compliance"
+    ]
   }
 }
