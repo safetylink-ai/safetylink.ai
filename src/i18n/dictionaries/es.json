@@ -9,25 +9,64 @@
       "heading": "Más que cumplimiento. Más que tecnología.",
       "subheading": "SafetyLink combina experiencia práctica en OSHA con innovación para ofrecer programas de cumplimiento prácticos y legalmente sólidos.",
       "items": [
-        { "title": "Guiados por Ex-Liderazgo de OSHA", "desc": "El equipo incluye al ex-director de OSHA y socios senior en derecho laboral" },
-        { "title": "Capacitadores Autorizados por OSHA", "desc": "Toda la capacitación es impartida por profesionales autorizados" },
-        { "title": "Bilingüe por Default", "desc": "Inglés y español integrados en toda la plataforma, no como un agregado" },
-        { "title": "Incorporación y Soporte Premium", "desc": "Incorporación experta y soporte continuo sin costo adicional" },
-        { "title": "Legalmente Defendible", "desc": "Plataforma y programas diseñados para resistir el escrutinio legal" },
-        { "title": "Escalable a Cualquier Tamaño", "desc": "Diseñado para PyMEs, pero con potencia para empresas multi-sitio" }
+        {
+          "title": "Guiados por Ex-Liderazgo de OSHA",
+          "desc": "El equipo incluye al ex-director de OSHA y socios senior en derecho laboral"
+        },
+        {
+          "title": "Capacitadores Autorizados por OSHA",
+          "desc": "Toda la capacitación es impartida por profesionales autorizados"
+        },
+        {
+          "title": "Bilingüe por Default",
+          "desc": "Inglés y español integrados en toda la plataforma, no como un agregado"
+        },
+        {
+          "title": "Incorporación y Soporte Premium",
+          "desc": "Incorporación experta y soporte continuo sin costo adicional"
+        },
+        {
+          "title": "Legalmente Defendible",
+          "desc": "Plataforma y programas diseñados para resistir el escrutinio legal"
+        },
+        {
+          "title": "Escalable a Cualquier Tamaño",
+          "desc": "Diseñado para PyMEs, pero con potencia para empresas multi-sitio"
+        }
       ]
     },
     "impact": {
       "heading": "Seguridad que Mueve los Números",
       "stats": [
-        { "value": "15–35%", "label": "menos lesiones con programas IIPP bien implementados", "icon": "shield" },
-        { "value": "Hasta 6× ROI", "label": "en inversiones de seguridad", "icon": "chart" },
-        { "value": "2,500+", "label": "organizaciones confían en SafetyLink", "icon": "building" }
+        {
+          "value": "15–35%",
+          "label": "menos lesiones con programas IIPP bien implementados",
+          "icon": "shield"
+        },
+        {
+          "value": "Hasta 6× ROI",
+          "label": "en inversiones de seguridad",
+          "icon": "chart"
+        },
+        {
+          "value": "2,500+",
+          "label": "organizaciones confían en SafetyLink",
+          "icon": "building"
+        }
       ],
       "secondary": [
-        { "value": "$170B+", "label": "costo anual de lesiones en EE.UU. — proteja su P&L" },
-        { "value": "98%", "label": "tasa de cumplimiento y monitoreo 24/7" },
-        { "value": "500+", "label": "empresas en industrias de alto riesgo" }
+        {
+          "value": "$170B+",
+          "label": "costo anual de lesiones en EE.UU. — proteja su P&L"
+        },
+        {
+          "value": "98%",
+          "label": "tasa de cumplimiento y monitoreo 24/7"
+        },
+        {
+          "value": "500+",
+          "label": "empresas en industrias de alto riesgo"
+        }
       ]
     },
     "offerings": {
@@ -57,9 +96,21 @@
     "process": {
       "heading": "Cómo Funciona SafetyLink",
       "steps": [
-        { "number": 1, "title": "Evaluar y Auditar", "desc": "Evaluación completa de riesgos en sitio y auditoría de cumplimiento, descubriendo riesgos antes que OSHA." },
-        { "number": 2, "title": "Implementar", "desc": "Programa de seguridad personalizado, adaptado a su negocio, entregado en inglés y español." },
-        { "number": 3, "title": "Monitorear y Refinar", "desc": "Monitoreo continuo mediante dashboards y analítica predictiva." }
+        {
+          "number": 1,
+          "title": "Evaluar y Auditar",
+          "desc": "Evaluación completa de riesgos en sitio y auditoría de cumplimiento, descubriendo riesgos antes que OSHA."
+        },
+        {
+          "number": 2,
+          "title": "Implementar",
+          "desc": "Programa de seguridad personalizado, adaptado a su negocio, entregado en inglés y español."
+        },
+        {
+          "number": 3,
+          "title": "Monitorear y Refinar",
+          "desc": "Monitoreo continuo mediante dashboards y analítica predictiva."
+        }
       ]
     },
     "industries": {
@@ -153,5 +204,87 @@
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "accessibility": "Accesibilidad"
+  },
+  "about": {
+    "hero": {
+      "title": "Los Expertos Detrás de la Única Plataforma de Seguridad Legalmente Defendible",
+      "subtitle": "Liderados por ex-directivos de OSHA y respaldados por expertos en derecho laboral, SafetyLink ofrece soluciones de cumplimiento en las que puede confiar."
+    },
+    "founded": {
+      "heading": "Fundado por Líderes en Seguridad, Guiado por Expertos de OSHA",
+      "text": "Con más de dos décadas de experiencia en liderazgo de seguridad, SafetyLink se fundó con una misión audaz: cerrar la brecha entre el cumplimiento normativo y la protección real en el lugar de trabajo. Construido sobre una visión de soluciones de seguridad legalmente defendibles, SafetyLink está transformando cómo las organizaciones abordan el cumplimiento de OSHA.",
+      "advisory_highlight": "Nuestro consejo asesor incluye a Edwin Foulke Jr., ex-Secretario Adjunto de Trabajo para OSHA, y a Bert Brennan, reconocido experto en derecho laboral. Sus más de 60 años combinados de liderazgo en OSHA garantizan que nuestra plataforma cumpla con los más altos estándares de cumplimiento normativo.",
+      "difference": "A diferencia del software de seguridad genérico, SafetyLink combina experiencia autorizada por OSHA con tecnología de vanguardia. Nuestra plataforma legalmente defendible ofrece soporte bilingüe y soluciones específicas para cada industria, respaldadas por décadas de liderazgo regulatorio."
+    },
+    "mission_vision": {
+      "heading": "Nuestra Misión y Visión",
+      "subheading": "Impulsando el futuro de la seguridad laboral mediante soluciones de cumplimiento lideradas por expertos",
+      "mission": {
+        "title": "Nuestra Misión",
+        "text": "Proteger a los trabajadores y empresas ofreciendo soluciones de cumplimiento legalmente defendibles y autorizadas por OSHA que van más allá de los requisitos mínimos para crear lugares de trabajo genuinamente seguros."
+      },
+      "vision": {
+        "title": "Nuestra Visión",
+        "text": "Transformar el cumplimiento de seguridad de una carga a una certeza, empoderando a organizaciones de todas las industrias para proteger a su fuerza laboral con soluciones en las que pueden confiar completamente."
+      }
+    },
+    "values": {
+      "heading": "Nuestros Valores Fundamentales",
+      "subheading": "Los principios que guían todo lo que hacemos en SafetyLink",
+      "items": [
+        {
+          "title": "Integridad y Confianza",
+          "desc": "Construimos soluciones con integridad inquebrantable, asegurando que cada herramienta y programa de cumplimiento que entregamos sea completamente confiable."
+        },
+        {
+          "title": "Protección del Trabajador Primero",
+          "desc": "Cada decisión que tomamos prioriza la seguridad y el bienestar de los trabajadores, porque proteger a las personas es nuestra mayor responsabilidad."
+        },
+        {
+          "title": "Cumplimiento a través de la Experiencia",
+          "desc": "Nuestro liderazgo autorizado por OSHA garantiza que cada solución que ofrecemos cumpla con los más altos estándares de cumplimiento normativo."
+        },
+        {
+          "title": "Innovación en Capacitación y Tecnología",
+          "desc": "Innovamos continuamente para hacer que la capacitación en seguridad sea más efectiva, accesible y atractiva para fuerzas laborales diversas."
+        }
+      ]
+    },
+    "board": {
+      "heading": "Consejo Asesor",
+      "subheading": "Líderes de la industria y expertos regulatorios que guían la misión de SafetyLink",
+      "members": [
+        {
+          "name": "Edwin Foulke Jr.",
+          "role": "Ex-Secretario Adjunto de Trabajo para OSHA",
+          "category": "Liderazgo OSHA",
+          "bio": "Edwin sirvió como Secretario Adjunto de Trabajo para OSHA bajo el presidente George W. Bush. Su amplia experiencia en regulación y aplicación de seguridad laboral aporta una experiencia incomparable a las soluciones de cumplimiento de SafetyLink."
+        },
+        {
+          "name": "Bert Brennan",
+          "role": "Socio Senior en Derecho Laboral",
+          "category": "Derecho Laboral",
+          "bio": "Reconocido experto en derecho laboral con más de 30 años de experiencia representando a empleadores en asuntos de OSHA. El profundo conocimiento de Bert sobre cumplimiento normativo ayuda a garantizar la defendibilidad legal de SafetyLink."
+        },
+        {
+          "name": "Dr. Sarah Chen",
+          "role": "Especialista en Salud Ocupacional",
+          "category": "Salud y Seguridad",
+          "bio": "Investigadora líder en salud ocupacional con experiencia en métricas de seguridad laboral y prevención de lesiones. Sus conocimientos impulsan el enfoque basado en evidencia de SafetyLink para el desarrollo de programas de seguridad."
+        },
+        {
+          "name": "Michael Rodriguez",
+          "role": "Asesor de Innovación Tecnológica",
+          "category": "Tecnología de Seguridad",
+          "bio": "Ex-CTO de empresas líderes en tecnología de seguridad con experiencia en software de cumplimiento y plataformas de capacitación. Michael guía la innovación tecnológica y la experiencia de usuario de SafetyLink."
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Descubra cómo nuestro equipo hace que el cumplimiento sea defendible.",
+      "subheading": "Experimente la diferencia que la experiencia autorizada por OSHA y el liderazgo comprobado pueden hacer para el cumplimiento de seguridad de su organización.",
+      "demo": "Solicitar Demo",
+      "consult": "Solicitar Consultoría"
+    }
   }
 }

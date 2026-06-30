@@ -9,25 +9,64 @@
       "heading": "More than compliance. More than technology.",
       "subheading": "SafetyLink combines hands-on OSHA expertise with innovation to deliver compliance programs that are both practical and legally robust.",
       "items": [
-        { "title": "Guided by Former OSHA Leadership", "desc": "Team includes former head of OSHA and senior labor law partners" },
-        { "title": "OSHA-Authorized Trainers", "desc": "All training delivered by authorized professionals" },
-        { "title": "Bilingual by Default", "desc": "English & Spanish integrated throughout the platform, not an add-on" },
-        { "title": "White-Glove Onboarding & Support", "desc": "Expert onboarding and ongoing support at no extra cost" },
-        { "title": "Legally Defensible", "desc": "Platform and programs designed to withstand legal scrutiny" },
-        { "title": "Scalable for Any Size", "desc": "Built for SMBs, yet powerful enough for multi-site enterprises" }
+        {
+          "title": "Guided by Former OSHA Leadership",
+          "desc": "Team includes former head of OSHA and senior labor law partners"
+        },
+        {
+          "title": "OSHA-Authorized Trainers",
+          "desc": "All training delivered by authorized professionals"
+        },
+        {
+          "title": "Bilingual by Default",
+          "desc": "English & Spanish integrated throughout the platform, not an add-on"
+        },
+        {
+          "title": "White-Glove Onboarding & Support",
+          "desc": "Expert onboarding and ongoing support at no extra cost"
+        },
+        {
+          "title": "Legally Defensible",
+          "desc": "Platform and programs designed to withstand legal scrutiny"
+        },
+        {
+          "title": "Scalable for Any Size",
+          "desc": "Built for SMBs, yet powerful enough for multi-site enterprises"
+        }
       ]
     },
     "impact": {
       "heading": "Safety That Moves the Numbers",
       "stats": [
-        { "value": "15–35%", "label": "fewer injuries with well-run IIPP programs", "icon": "shield" },
-        { "value": "Up to 6× ROI", "label": "on safety investments", "icon": "chart" },
-        { "value": "2,500+", "label": "organizations trust SafetyLink", "icon": "building" }
+        {
+          "value": "15–35%",
+          "label": "fewer injuries with well-run IIPP programs",
+          "icon": "shield"
+        },
+        {
+          "value": "Up to 6× ROI",
+          "label": "on safety investments",
+          "icon": "chart"
+        },
+        {
+          "value": "2,500+",
+          "label": "organizations trust SafetyLink",
+          "icon": "building"
+        }
       ],
       "secondary": [
-        { "value": "$170B+", "label": "annual U.S. injury costs — protect your P&L" },
-        { "value": "98%", "label": "compliance rate and 24/7 monitoring" },
-        { "value": "500+", "label": "companies in high-risk industries" }
+        {
+          "value": "$170B+",
+          "label": "annual U.S. injury costs — protect your P&L"
+        },
+        {
+          "value": "98%",
+          "label": "compliance rate and 24/7 monitoring"
+        },
+        {
+          "value": "500+",
+          "label": "companies in high-risk industries"
+        }
       ]
     },
     "offerings": {
@@ -57,9 +96,21 @@
     "process": {
       "heading": "How SafetyLink Works",
       "steps": [
-        { "number": 1, "title": "Assess & Audit", "desc": "Full on-site hazard assessment & compliance audit, uncovering risks before OSHA does." },
-        { "number": 2, "title": "Implement", "desc": "Custom safety program, tailored to your business, delivered in English & Spanish." },
-        { "number": 3, "title": "Track & Refine", "desc": "Continuous monitoring via dashboards and predictive analytics." }
+        {
+          "number": 1,
+          "title": "Assess & Audit",
+          "desc": "Full on-site hazard assessment & compliance audit, uncovering risks before OSHA does."
+        },
+        {
+          "number": 2,
+          "title": "Implement",
+          "desc": "Custom safety program, tailored to your business, delivered in English & Spanish."
+        },
+        {
+          "number": 3,
+          "title": "Track & Refine",
+          "desc": "Continuous monitoring via dashboards and predictive analytics."
+        }
       ]
     },
     "industries": {
@@ -153,5 +204,87 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "accessibility": "Accessibility"
+  },
+  "about": {
+    "hero": {
+      "title": "The Experts Behind the Only Legally Defensible Safety Platform",
+      "subtitle": "Led by former OSHA leadership and backed by top labor law experts, SafetyLink delivers compliance solutions you can trust with confidence."
+    },
+    "founded": {
+      "heading": "Founded by Safety Leaders, Guided by OSHA Experts",
+      "text": "With over two decades of safety leadership experience, SafetyLink was founded with a bold mission: to close the gap between regulatory compliance and real-world workplace protection. Built on a vision of legally defensible safety solutions, SafetyLink is transforming how organizations approach OSHA compliance.",
+      "advisory_highlight": "Our advisory board includes Edwin Foulke Jr., former Assistant Secretary of Labor for OSHA, and Bert Brennan, renowned labor law expert. Their combined 60+ years of OSHA leadership ensures our platform meets the highest standards of regulatory compliance.",
+      "difference": "Unlike generic safety software, SafetyLink combines OSHA-authorized expertise with cutting-edge technology. Our legally defensible platform provides bilingual support and industry-specific solutions backed by decades of regulatory leadership."
+    },
+    "mission_vision": {
+      "heading": "Our Mission & Vision",
+      "subheading": "Driving the future of workplace safety through expert-led compliance solutions",
+      "mission": {
+        "title": "Our Mission",
+        "text": "To protect workers and businesses by delivering legally defensible, OSHA-authorized compliance solutions that go beyond check-the-box requirements to create genuinely safe workplaces."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "text": "To transform safety compliance from a burden into confidence, empowering organizations across every industry to protect their workforce with solutions they can trust completely."
+      }
+    },
+    "values": {
+      "heading": "Our Core Values",
+      "subheading": "The principles that guide everything we do at SafetyLink",
+      "items": [
+        {
+          "title": "Integrity & Trust",
+          "desc": "We build solutions with unwavering integrity, ensuring every compliance tool and program we deliver can be trusted completely."
+        },
+        {
+          "title": "Worker Protection First",
+          "desc": "Every decision we make prioritizes the safety and wellbeing of workers, because protecting people is our highest responsibility."
+        },
+        {
+          "title": "Compliance Through Expertise",
+          "desc": "Our OSHA-authorized leadership ensures that every solution we provide meets the highest standards of regulatory compliance."
+        },
+        {
+          "title": "Innovation in Training & Technology",
+          "desc": "We continuously innovate to make safety training more effective, accessible, and engaging for diverse workforces."
+        }
+      ]
+    },
+    "board": {
+      "heading": "Advisory Board",
+      "subheading": "Industry leaders and regulatory experts who guide SafetyLink's mission",
+      "members": [
+        {
+          "name": "Edwin Foulke Jr.",
+          "role": "Former Assistant Secretary of Labor for OSHA",
+          "category": "OSHA Leadership",
+          "bio": "Edwin served as the Assistant Secretary of Labor for OSHA under President George W. Bush. His extensive experience in workplace safety regulation and enforcement brings unparalleled expertise to SafetyLink's compliance solutions."
+        },
+        {
+          "name": "Bert Brennan",
+          "role": "Senior Labor Law Partner",
+          "category": "Labor Law",
+          "bio": "A renowned labor law expert with over 30 years of experience representing employers in OSHA matters. Bert's deep understanding of regulatory compliance helps ensure SafetyLink's legal defensibility."
+        },
+        {
+          "name": "Dr. Sarah Chen",
+          "role": "Occupational Health Specialist",
+          "category": "Health & Safety",
+          "bio": "Leading occupational health researcher with expertise in workplace safety metrics and injury prevention. Her insights drive SafetyLink's evidence-based approach to safety program development."
+        },
+        {
+          "name": "Michael Rodriguez",
+          "role": "Technology Innovation Advisor",
+          "category": "Safety Technology",
+          "bio": "Former CTO of leading safety technology companies with expertise in compliance software and training platforms. Michael guides SafetyLink's technological innovation and user experience."
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Discover how our team makes compliance defensible.",
+      "subheading": "Experience the difference that OSHA-authorized expertise and proven leadership can make for your organization's safety compliance.",
+      "demo": "Request A Demo",
+      "consult": "Request A Consult"
+    }
   }
 }
