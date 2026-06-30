@@ -25,8 +25,12 @@ export default function Header({ lang, dict }: HeaderProps) {
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         {/* Logo */}
-        <Link href={`/${lang}`} className="text-navy font-bold text-2xl tracking-tight">
-          SafetyLink
+        <Link href={`/${lang}`} className="flex items-center gap-3">
+          <img
+            src="/images/Logos-SafetyLink-5.png"
+            alt="SafetyLink"
+            className="h-10 w-auto"
+          />
         </Link>
 
         {/* Desktop Nav */}

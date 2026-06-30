@@ -9,7 +9,14 @@ interface DifferentiatorsProps {
   items: DifferentiatorItem[];
 }
 
-const icons = ["🛡️", "📋", "🌐", "🤝", "⚖️", "📈"];
+const icons = [
+  "/images/download__2___1_-removebg-preview.png",
+  "/images/download__3___1_-removebg-preview.png",
+  "/images/download__4___1_-removebg-preview.png",
+  "/images/download__7___1_-removebg-preview.png",
+  "/images/download__8___1_-removebg-preview.png",
+  "/images/download__9___1_-removebg-preview.png",
+];
 
 export default function Differentiators({ heading, subheading, items }: DifferentiatorsProps) {
   return (
@@ -28,7 +35,7 @@ export default function Differentiators({ heading, subheading, items }: Differen
             key={i}
             className="bg-[#f9fafb] border border-[rgba(3,22,40,0.03)] rounded-2xl p-8 hover:shadow-[0_4px_15px_0_rgba(0,0,0,0.08)] transition-shadow"
           >
-            <div className="text-3xl mb-4">{icons[i] || "✓"}</div>
+            <img src={icons[i]} alt="" className="w-12 h-12 mb-4 object-contain" />
             <h3 className="text-lg font-bold text-navy mb-2">{item.title}</h3>
             <p className="text-[#666] text-sm leading-relaxed">{item.desc}</p>
           </div>

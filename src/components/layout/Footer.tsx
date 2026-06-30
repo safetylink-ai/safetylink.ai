@@ -34,7 +34,11 @@ export default function Footer({ dict, nav, lang }: FooterProps) {
       <div className="max-w-6xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-3 gap-10">
         {/* Brand */}
         <div>
-          <h3 className="text-2xl font-bold mb-4">SafetyLink</h3>
+          <img
+            src="/images/Logos-SafetyLink-1.png"
+            alt="SafetyLink"
+            className="h-8 w-auto mb-4"
+          />
           <p className="text-gray-300 text-sm leading-relaxed mb-4">
             {dict.tagline}
           </p>

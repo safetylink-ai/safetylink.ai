@@ -22,37 +22,49 @@ export default function Offerings({ heading, software, program }: OfferingsProps
         </h2>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {/* Software Card */}
-          <div className="bg-[#f9fafb] border border-[rgba(3,22,40,0.03)] rounded-2xl p-10">
-            <h3 className="text-2xl font-bold text-navy mb-3">{software.title}</h3>
-            <p className="text-[#666] mb-8 leading-relaxed">{software.subtitle}</p>
-            <ul className="space-y-3 mb-8">
-              {software.features.map((f, i) => (
-                <li key={i} className="flex items-start gap-3 text-sm text-[#666]">
-                  <span className="text-primary mt-1">✓</span>
-                  {f}
-                </li>
-              ))}
-            </ul>
-            <Button href="/safety-software" variant="primary">
-              {software.cta}
-            </Button>
+          <div className="bg-[#f9fafb] border border-[rgba(3,22,40,0.03)] rounded-2xl overflow-hidden">
+            <div
+              className="h-48 bg-cover bg-center"
+              style={{ backgroundImage: "url('/images/dashboard-mockup-DghHsdGf.jpg')" }}
+            />
+            <div className="p-10">
+              <h3 className="text-2xl font-bold text-navy mb-3">{software.title}</h3>
+              <p className="text-[#666] mb-8 leading-relaxed">{software.subtitle}</p>
+              <ul className="space-y-3 mb-8">
+                {software.features.map((f, i) => (
+                  <li key={i} className="flex items-start gap-3 text-sm text-[#666]">
+                    <span className="text-primary mt-1">✓</span>
+                    {f}
+                  </li>
+                ))}
+              </ul>
+              <Button href="/safety-software" variant="primary">
+                {software.cta}
+              </Button>
+            </div>
           </div>
 
           {/* Program Card */}
-          <div className="bg-[#f9fafb] border border-[rgba(3,22,40,0.03)] rounded-2xl p-10">
-            <h3 className="text-2xl font-bold text-navy mb-3">{program.title}</h3>
-            <p className="text-[#666] mb-8 leading-relaxed">{program.subtitle}</p>
-            <ul className="space-y-3 mb-8">
-              {program.features.map((f, i) => (
-                <li key={i} className="flex items-start gap-3 text-sm text-[#666]">
-                  <span className="text-primary mt-1">✓</span>
-                  {f}
-                </li>
-              ))}
-            </ul>
-            <Button href="/safety-program-management" variant="outline-navy">
-              {program.cta}
-            </Button>
+          <div className="bg-[#f9fafb] border border-[rgba(3,22,40,0.03)] rounded-2xl overflow-hidden">
+            <div
+              className="h-48 bg-cover bg-center"
+              style={{ backgroundImage: "url('/images/enterprise-operations-photo-CKexevGM.jpg')" }}
+            />
+            <div className="p-10">
+              <h3 className="text-2xl font-bold text-navy mb-3">{program.title}</h3>
+              <p className="text-[#666] mb-8 leading-relaxed">{program.subtitle}</p>
+              <ul className="space-y-3 mb-8">
+                {program.features.map((f, i) => (
+                  <li key={i} className="flex items-start gap-3 text-sm text-[#666]">
+                    <span className="text-primary mt-1">✓</span>
+                    {f}
+                  </li>
+                ))}
+              </ul>
+              <Button href="/safety-program-management" variant="outline-navy">
+                {program.cta}
+              </Button>
+            </div>
           </div>
         </div>
       </div>
