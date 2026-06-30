@@ -286,5 +286,260 @@
       "demo": "Solicitar Demo",
       "consult": "Solicitar Consultoría"
     }
+  },
+  "safety_software": {
+    "hero": {
+      "title": "Safety Link: La Plataforma de Seguridad Más Legalmente Defendible",
+      "subtitle": "Proteja a su gente, su negocio y su futuro — sin costos inflados ni incertidumbre.",
+      "cta": "Consulta Gratuita"
+    },
+    "differentiators": {
+      "items": [
+        "Guiados por ex-liderazgo de OSHA e impartido por capacitadores autorizados por OSHA",
+        "Bilingüe (inglés/español) por defecto — plataforma, contenido y soporte",
+        "Programas específicos por sitio (no plantillas genéricas) – políticas adaptadas a cada lugar de trabajo",
+        "Documentación legalmente defendible, asesorada por abogados de OSHA",
+        "Mobile-first + modo offline – auditorías, inspecciones, fotos, GPS, marcas de tiempo sin internet",
+        "Precio PyME con potencia empresarial – cumplimiento escalable y accesible"
+      ]
+    },
+    "capabilities": {
+      "heading": "Capacidades Integradas (Listas para Usar)",
+      "items": [
+        {
+          "name": "LMS Integrado (SCORM 1.2)",
+          "desc": "Cursos interactivos basados en roles con exámenes y certificados"
+        },
+        {
+          "name": "Bilingüe completo",
+          "desc": "Interfaz, contenido y soporte en inglés y español"
+        },
+        {
+          "name": "Políticas por sitio",
+          "desc": "Políticas a nivel cliente/sitio, control de versiones, acuses"
+        },
+        {
+          "name": "Firmas digitales",
+          "desc": "Registros listos para auditoría, exportables"
+        },
+        {
+          "name": "Automatización CAPA",
+          "desc": "Seguimiento, fechas límite, evidencia de corrección, escalamiento"
+        },
+        {
+          "name": "Dashboards en tiempo real + IA",
+          "desc": "Alertas de capacitación vencida, fallas, CAPAs abiertas, tendencias"
+        },
+        {
+          "name": "Portal de contratistas",
+          "desc": "Permisos por rol y sitio, separación de funciones"
+        },
+        {
+          "name": "Modo offline mobile-first",
+          "desc": "Funcionalidad completa sin señal"
+        },
+        {
+          "name": "Precio PyME",
+          "desc": "Precios escalonados, capacidad empresarial cuando se necesita"
+        }
+      ]
+    },
+    "comparison": {
+      "heading": "Comparación: Safety Link vs Herramientas Genéricas",
+      "subtitle": "Otras herramientas marcan casillas. Nosotros eliminamos riesgos.",
+      "rows": [
+        {
+          "feature": "Bilingüe (EN/ES) por defecto",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Programas por sitio",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Capacitadores autorizados OSHA",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Ex-liderazgo OSHA en staff",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Soporte experto y consultas",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Documentación legalmente defendible",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Soporte de auditoría en sitio",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Accesible para PyMEs",
+          "others": "✗",
+          "safetylink": "✓"
+        }
+      ]
+    },
+    "deployment": {
+      "heading": "Dos Modalidades",
+      "software": {
+        "title": "Software de Seguridad",
+        "desc": "Capacitación, auditorías, incidentes, CAPA, registros OSHA y analítica en una sola plataforma. Diseñado para PyMEs que buscan control sin hojas de cálculo.",
+        "cta": "Explorar Software"
+      },
+      "program": {
+        "title": "Gestión de Programas",
+        "desc": "Profesionales autorizados por OSHA diseñan e implementan programas específicos por sitio, realizan auditorías, capacitan equipos y lo mantienen listo para inspección.",
+        "cta": "Explorar Gestión de Programas"
+      }
+    },
+    "gold_standard": {
+      "heading": "Qué Hace de Safety Link el Estándar de Oro",
+      "items": [
+        {
+          "title": "Experiencia Autorizada por OSHA",
+          "desc": "Ex-liderazgo de OSHA y abogados laborales guían la plataforma; firmas de supervisor y registros de auditoría completos."
+        },
+        {
+          "title": "Arquitectura de Proceso Primero",
+          "desc": "Cada módulo (inducción → capacitación → CAPA) está interconectado para que nada quede fuera."
+        },
+        {
+          "title": "Evidencia Integrada",
+          "desc": "Geo-etiquetado, marcas de tiempo, políticas con control de versiones, firmas electrónicas e informes listos para auditor."
+        },
+        {
+          "title": "Rendimiento en Campo",
+          "desc": "Móvil responsive, modo offline, captura de foto/video, GPS, firmas digitales."
+        },
+        {
+          "title": "Escala Sin Sobresaltos",
+          "desc": "Comience a escala PyME; agregue supervisión multi-sitio, controles de contratistas y analítica avanzada."
+        }
+      ]
+    },
+    "features_grid": {
+      "heading": "Destacados de Funcionalidades",
+      "items": [
+        {
+          "name": "Mobile + Offline",
+          "desc": "Acceda a herramientas de seguridad en cualquier lugar, sin internet",
+          "img": "/images/imgi_5_feature-mobile-BeQJutVM.jpg"
+        },
+        {
+          "name": "Auditorías e Inspecciones",
+          "desc": "Auditorías en tiempo real, seguimiento de hallazgos",
+          "img": "/images/imgi_6_feature-audits-Chwoapsm.jpg"
+        },
+        {
+          "name": "Capacitación (SCORM)",
+          "desc": "LMS completo con soporte de cursos SCORM bilingües",
+          "img": "/images/imgi_7_feature-training-DlajBew5.jpg"
+        },
+        {
+          "name": "Exámenes y Certificados",
+          "desc": "Verifique comprensión, genere certificados automáticamente",
+          "img": "/images/imgi_8_feature-quizzes-BN4TbLCR.jpg"
+        },
+        {
+          "name": "Políticas por Sitio",
+          "desc": "Adaptadas a sus riesgos y ubicaciones",
+          "img": "/images/feature-policies-q899d3JL.jpg"
+        },
+        {
+          "name": "Flujo de Acciones Correctivas",
+          "desc": "Seguimiento de problemas desde identificación hasta resolución",
+          "img": "/images/imgi_10_feature-workflow-CfUrGWrp.jpg"
+        },
+        {
+          "name": "Dashboards de Cumplimiento",
+          "desc": "Visibilidad en tiempo real del desempeño de seguridad",
+          "img": "/images/imgi_11_feature-dashboard-H-FS-km3.jpg"
+        },
+        {
+          "name": "Portal de Contratistas",
+          "desc": "Permisos basados en roles para trabajadores externos",
+          "img": "/images/imgi_12_feature-contractor-CBU_fgsQ.jpg"
+        },
+        {
+          "name": "Accesible para PyMEs",
+          "desc": "Funcionalidades empresariales sin precio empresarial",
+          "img": "/images/imgi_13_feature-affordable-DzRtQ8Ac.jpg"
+        }
+      ]
+    },
+    "how_it_works": {
+      "heading": "Cómo Funciona",
+      "steps": [
+        {
+          "title": "Evaluar y Auditar",
+          "desc": "Revisiones bilingües específicas por sitio descubren riesgos antes que OSHA."
+        },
+        {
+          "title": "Implementar",
+          "desc": "Construya su programa en inglés/español, active capacitación y flujos de trabajo."
+        },
+        {
+          "title": "Monitorear y Mejorar",
+          "desc": "Dashboards, alertas IA, CAPA y registros lo mantienen listo para inspección."
+        }
+      ]
+    },
+    "built_for": {
+      "heading": "Diseñado para PyMEs y Empresas de Alto Riesgo",
+      "smb": {
+        "title": "Equipos PyMEs",
+        "desc": "Seguridad nivel empresarial sin grandes facturas. Lance rápido, gestione simple.",
+        "img": "/images/imgi_14_smb-teamwork-BfplCzdt.jpg"
+      },
+      "enterprise": {
+        "title": "Empresas de Alto Riesgo",
+        "desc": "Controles multi-sitio, analítica avanzada, supervisión de contratistas, evidencia lista para litigios.",
+        "img": "/images/enterprise-growth-CxBH0X1y.jpg"
+      }
+    },
+    "stats": {
+      "heading": "Seguridad que Mueve los Números",
+      "items": [
+        {
+          "value": "15–35%",
+          "label": "menos lesiones con programas IIPP bien implementados"
+        },
+        {
+          "value": "$170B+",
+          "label": "costo anual de lesiones en EE.UU. – proteja su P&L"
+        },
+        {
+          "value": "Hasta 6×",
+          "label": "ROI en inversiones de seguridad"
+        }
+      ]
+    },
+    "industries": {
+      "heading": "Industrias que Servimos",
+      "list": [
+        "Manufactura",
+        "Construcción",
+        "Salud y Hospitales",
+        "Energía y Servicios / Petróleo, Gas",
+        "Gobierno y Sector Público",
+        "Transporte y Logística"
+      ]
+    },
+    "cta": {
+      "heading": "¿Listo para proteger a su gente y su negocio?",
+      "subtitle": "Hable con un Asesor Autorizado por OSHA",
+      "button": "Solicitar Demo"
+    }
   }
 }

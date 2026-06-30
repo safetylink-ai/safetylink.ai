@@ -286,5 +286,260 @@
       "demo": "Request A Demo",
       "consult": "Request A Consult"
     }
+  },
+  "safety_software": {
+    "hero": {
+      "title": "Safety Link: The Most Legally Defensible Safety Platform",
+      "subtitle": "Protect your people, protect your business, protect your future — without bloated costs or guesswork.",
+      "cta": "Start with a Free Consult"
+    },
+    "differentiators": {
+      "items": [
+        "Guided by former OSHA leadership and delivered by OSHA‑authorized trainers",
+        "Bilingual (English/Spanish) by default — platform UI, content, and support",
+        "Site‑specific programs (not generic templates) – policies tailored to each job site",
+        "Legally defensible documentation, advised by OSHA attorneys",
+        "Mobile‑first + offline mode – audits, inspections, photos, GPS, timestamps without internet",
+        "SMB pricing with enterprise power – scalable, affordable compliance"
+      ]
+    },
+    "capabilities": {
+      "heading": "Built‑In Capabilities (Out‑of‑the‑Box)",
+      "items": [
+        {
+          "name": "Built‑in LMS (SCORM 1.2)",
+          "desc": "Interactive, role‑based courses with quizzes & certificates; mapped to Training Matrix"
+        },
+        {
+          "name": "Full bilingual delivery",
+          "desc": "UI, training content, and support in English & Spanish"
+        },
+        {
+          "name": "Site‑specific policies",
+          "desc": "Client/job‑site‑level policies, version control, acknowledgments"
+        },
+        {
+          "name": "Digital signatures & acknowledgments",
+          "desc": "Audit‑ready trails, exports"
+        },
+        {
+          "name": "Corrective Actions automation",
+          "desc": "Follow‑ups, due dates, proof‑of‑correction, escalation"
+        },
+        {
+          "name": "Real‑time dashboards & AI insights",
+          "desc": "Surface overdue training, failed items, open CAPAs, trend risks"
+        },
+        {
+          "name": "Contractor portal & access controls",
+          "desc": "Role‑ and site‑based permissions, separation of duties"
+        },
+        {
+          "name": "Mobile‑first offline mode",
+          "desc": "Full functionality without signal"
+        },
+        {
+          "name": "Affordable SMB pricing",
+          "desc": "Tiered pricing, enterprise‑grade capability when needed"
+        }
+      ]
+    },
+    "comparison": {
+      "heading": "Comparison: Safety Link vs Generic Tools",
+      "subtitle": "Other tools check boxes. We close risk.",
+      "rows": [
+        {
+          "feature": "Bilingual (EN/ES) default",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Site‑specific programs",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "OSHA‑Authorized trainers",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Former OSHA leadership on staff",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Expert support & consultations",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Legally defensible documentation",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "On‑site audit support",
+          "others": "✗",
+          "safetylink": "✓"
+        },
+        {
+          "feature": "Affordable for SMBs",
+          "others": "✗",
+          "safetylink": "✓"
+        }
+      ]
+    },
+    "deployment": {
+      "heading": "Two Deployment Paths",
+      "software": {
+        "title": "Safety Software",
+        "desc": "Run training, audits/inspections, incidents, CAPA, OSHA logs, and analytics in one platform. Designed for SMBs seeking control without spreadsheets.",
+        "cta": "Explore Software"
+      },
+      "program": {
+        "title": "Program Management",
+        "desc": "OSHA‑authorized professionals design and implement site‑specific programs, conduct audits, train teams, and keep you inspection‑ready — ideal for high‑risk or multi‑site operations.",
+        "cta": "Explore Program Management"
+      }
+    },
+    "gold_standard": {
+      "heading": "What Makes Safety Link the Gold Standard",
+      "items": [
+        {
+          "title": "OSHA‑Authorized Expertise",
+          "desc": "Former OSHA leadership and labor attorneys guide the platform; supervisor sign‑offs and full audit trails ensure legal defensibility."
+        },
+        {
+          "title": "Process‑First Architecture",
+          "desc": "Every module (onboarding → training → CAPA) is interconnected so nothing falls through."
+        },
+        {
+          "title": "Proof Built In",
+          "desc": "Geo‑tagging, time stamps, version‑controlled policies, e‑signatures, and printable auditor‑ready reports."
+        },
+        {
+          "title": "Performance in the Field",
+          "desc": "Responsive mobile, offline mode, photo/video capture, GPS, digital signatures."
+        },
+        {
+          "title": "Scales Without Sticker Shock",
+          "desc": "Start at SMB scale; add multi‑site oversight, contractor controls, and advanced analytics as you grow."
+        }
+      ]
+    },
+    "features_grid": {
+      "heading": "Feature Highlights",
+      "items": [
+        {
+          "name": "Mobile‑Ready + Offline",
+          "desc": "Access safety tools anywhere, without internet",
+          "img": "/images/imgi_5_feature-mobile-BeQJutVM.jpg"
+        },
+        {
+          "name": "Audits & Inspections",
+          "desc": "Real‑time site audits, track findings",
+          "img": "/images/imgi_6_feature-audits-Chwoapsm.jpg"
+        },
+        {
+          "name": "Training (SCORM)",
+          "desc": "Full LMS with bilingual SCORM course support",
+          "img": "/images/imgi_7_feature-training-DlajBew5.jpg"
+        },
+        {
+          "name": "Quizzes & Certificates",
+          "desc": "Verify comprehension, auto‑generate certificates",
+          "img": "/images/imgi_8_feature-quizzes-BN4TbLCR.jpg"
+        },
+        {
+          "name": "Site‑Specific Policies",
+          "desc": "Tailored to your hazards and sites",
+          "img": "/images/feature-policies-q899d3JL.jpg"
+        },
+        {
+          "name": "Corrective Actions Workflow",
+          "desc": "Track issues from identification to resolution",
+          "img": "/images/imgi_10_feature-workflow-CfUrGWrp.jpg"
+        },
+        {
+          "name": "Compliance Dashboards & KPIs",
+          "desc": "Real‑time visibility into safety performance",
+          "img": "/images/imgi_11_feature-dashboard-H-FS-km3.jpg"
+        },
+        {
+          "name": "Contractor Portal & Access Controls",
+          "desc": "Role‑based permissions for external workers",
+          "img": "/images/imgi_12_feature-contractor-CBU_fgsQ.jpg"
+        },
+        {
+          "name": "Affordable for SMBs",
+          "desc": "Enterprise features without enterprise pricing",
+          "img": "/images/imgi_13_feature-affordable-DzRtQ8Ac.jpg"
+        }
+      ]
+    },
+    "how_it_works": {
+      "heading": "How It Works",
+      "steps": [
+        {
+          "title": "Assess & Audit",
+          "desc": "Bilingual, site‑specific reviews uncover risks before OSHA does."
+        },
+        {
+          "title": "Implement",
+          "desc": "Build your English/Spanish program, launch training and workflows."
+        },
+        {
+          "title": "Track & Improve",
+          "desc": "Dashboards, AI alerts, CAPA, and logs keep you inspection‑ready."
+        }
+      ]
+    },
+    "built_for": {
+      "heading": "Built for SMBs and High‑Risk Enterprises",
+      "smb": {
+        "title": "Small & Mid‑Market Teams",
+        "desc": "Enterprise‑grade safety without large invoices. Launch fast, manage simply.",
+        "img": "/images/imgi_14_smb-teamwork-BfplCzdt.jpg"
+      },
+      "enterprise": {
+        "title": "High‑Risk Enterprises",
+        "desc": "Multi‑site controls, advanced analytics, contractor oversight, litigation‑ready evidence.",
+        "img": "/images/enterprise-growth-CxBH0X1y.jpg"
+      }
+    },
+    "stats": {
+      "heading": "Safety That Moves the Numbers",
+      "items": [
+        {
+          "value": "15–35%",
+          "label": "fewer injuries with well‑run IIPP programs"
+        },
+        {
+          "value": "$170B+",
+          "label": "annual U.S. injury costs – protect your P&L"
+        },
+        {
+          "value": "Up to 6×",
+          "label": "ROI on safety investments"
+        }
+      ]
+    },
+    "industries": {
+      "heading": "Industries Served",
+      "list": [
+        "Manufacturing",
+        "Construction",
+        "Healthcare & Hospitals",
+        "Energy & Utilities / Oil, Gas",
+        "Government & Public Sector",
+        "Transportation & Logistics"
+      ]
+    },
+    "cta": {
+      "heading": "Ready to protect your people and your business?",
+      "subtitle": "Talk to an OSHA Authorized Advisor",
+      "button": "Request a Demo"
+    }
   }
 }
