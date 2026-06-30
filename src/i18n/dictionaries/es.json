@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "El Estándar de Oro en Seguridad Legalmente Defendible",
+    "subtitle": "Más que cumplimiento. Más que tecnología.",
+    "cta": "Solicitar Demo",
+    "consult": "Solicitar Consultoría"
+  },
+  "nav": {
+    "home": "Inicio",
+    "solutions": "Soluciones",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "login": "Ingresar",
+    "demo": "Solicitar Demo"
+  },
+  "footer": {
+    "tagline": "La única plataforma de cumplimiento de seguridad legalmente defendible respaldada por ex-liderazgo de OSHA y expertos en derecho laboral."
+  }
+}

@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+/* ── SafetyLink Design Tokens (extracted by Dembrandt) ── */
+:root {
+  /* Colors */
+  --color-primary: #00B737;
+  --color-primary-hover: #009c2f;
+  --color-primary-light: #0aa12c;
+  --color-navy: #0E355E;
+  --color-navy-dark: #0e345c;
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+  --color-dark: #333333;
+  --color-gray: #686868;
+  --color-gray-light: #666666;
+  --color-blue: #3979FF;
+  --color-amber: #f7b500;
+  --color-link: #2ea3f2;
+
+  /* Typography */
+  --font-sans: "Open Sans", Arial, sans-serif;
+
+  /* Shadows */
+  --shadow-card: 0px 10px 28px 0px rgba(0, 0, 0, 0.12);
+  --shadow-card-sm: 0px 4px 15px 0px rgba(0, 0, 0, 0.08);
+  --shadow-card-alt: 0px 6px 18px 0px rgba(2, 18, 33, 0.18);
+  --shadow-button: 0px 2px 6px 0px rgba(0, 183, 55, 0.25);
+}
+
+@theme inline {
+  --color-background: var(--color-white);
+  --color-foreground: var(--color-dark);
+  --font-sans: var(--font-sans);
+  --color-primary: var(--color-primary);
+  --color-navy: var(--color-navy);
+}
+
+body {
+  background: var(--color-white);
+  color: var(--color-dark);
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* ── Utility classes matching original site ── */
+.text-navy { color: var(--color-navy); }
+.bg-navy { background-color: var(--color-navy); }
+.text-primary { color: var(--color-primary); }
+.bg-primary { background-color: var(--color-primary); }

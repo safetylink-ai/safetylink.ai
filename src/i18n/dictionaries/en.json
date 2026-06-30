@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "The Gold Standard in Legally Defensible Safety",
+    "subtitle": "More than compliance. More than technology.",
+    "cta": "Request a Demo",
+    "consult": "Request a Consultation"
+  },
+  "nav": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "demo": "Request Demo"
+  },
+  "footer": {
+    "tagline": "The only legally defensible safety compliance platform backed by OSHA leadership and top labor law experts."
+  }
+}
