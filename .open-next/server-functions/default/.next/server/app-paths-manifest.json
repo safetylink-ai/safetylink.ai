@@ -1,0 +1,18 @@
+{
+  "/[lang]/about/page": "app/[lang]/about/page.js",
+  "/[lang]/accessibility/page": "app/[lang]/accessibility/page.js",
+  "/[lang]/blog/[slug]/page": "app/[lang]/blog/[slug]/page.js",
+  "/[lang]/blog/page": "app/[lang]/blog/page.js",
+  "/[lang]/contact/page": "app/[lang]/contact/page.js",
+  "/[lang]/page": "app/[lang]/page.js",
+  "/[lang]/privacy-policy/page": "app/[lang]/privacy-policy/page.js",
+  "/[lang]/safety-program-management/page": "app/[lang]/safety-program-management/page.js",
+  "/[lang]/safety-software/page": "app/[lang]/safety-software/page.js",
+  "/[lang]/services/page": "app/[lang]/services/page.js",
+  "/[lang]/solutions/page": "app/[lang]/solutions/page.js",
+  "/[lang]/terms-of-service/page": "app/[lang]/terms-of-service/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}

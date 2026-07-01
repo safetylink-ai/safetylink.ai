@@ -1,6 +1,12 @@
-import { redirect } from "next/navigation";
-import { defaultLocale } from "@/i18n/dictionaries";
-
 export default function RootPage() {
-  redirect(`/${defaultLocale}`);
+  return (
+    <html>
+      <head>
+        <meta httpEquiv="refresh" content="0;url=/en/" />
+      </head>
+      <body>
+        <p>Redirecting to <a href="/en/">English site</a>...</p>
+      </body>
+    </html>
+  );
 }

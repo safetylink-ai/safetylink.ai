@@ -1,0 +1,18 @@
+{
+  "/[lang]/about/page": "/[lang]/about",
+  "/[lang]/accessibility/page": "/[lang]/accessibility",
+  "/[lang]/blog/[slug]/page": "/[lang]/blog/[slug]",
+  "/[lang]/blog/page": "/[lang]/blog",
+  "/[lang]/contact/page": "/[lang]/contact",
+  "/[lang]/page": "/[lang]",
+  "/[lang]/privacy-policy/page": "/[lang]/privacy-policy",
+  "/[lang]/safety-program-management/page": "/[lang]/safety-program-management",
+  "/[lang]/safety-software/page": "/[lang]/safety-software",
+  "/[lang]/services/page": "/[lang]/services",
+  "/[lang]/solutions/page": "/[lang]/solutions",
+  "/[lang]/terms-of-service/page": "/[lang]/terms-of-service",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
